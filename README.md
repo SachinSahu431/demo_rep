@@ -1,4 +1,4 @@
 # demo_rep
-getting started with git CLI
+getting started with GITHUB 
 
 {TO BE DELETED AFTER THIS DEMO!!!}
